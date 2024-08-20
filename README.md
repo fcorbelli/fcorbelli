@@ -90,16 +90,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/fcorbelli/fcorbelli/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/fcorbelli/count.svg?"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/fcorbelli/fcorbelli/output/snake.svg" alt="Snake animation" />
 
 ###
