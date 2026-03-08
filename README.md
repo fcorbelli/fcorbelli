@@ -194,7 +194,6 @@ This makes zpaqfranz a practical tool not just for IT professionals, but also fo
 
 The **ZPAQ compression technology** was created by **[Dr. Matt Mahoney](https://mattmahoney.net/)**.
 All major credit for the underlying technology goes to him.
-My projects build tools around his work, adding GUI, cloud support, anti-ransomware strategies, and incremental backups.
 
 ---
 
