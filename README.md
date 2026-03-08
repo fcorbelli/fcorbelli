@@ -1,98 +1,134 @@
 <div align="center">
-  <img height="150" src="https://www.francocorbelli.it/nuovosito/immagini/testone.jpg"  /><br>
-  <img height="256" src="https://www.francocorbelli.it/zpaqfranz/zpaqfranz.jpg"  />
+
+<img height="150" src="https://www.francocorbelli.it/nuovosito/immagini/testone.jpg"/>
+
+# Franco Corbelli
+
+<img height="220" src="https://www.francocorbelli.it/zpaqfranz/zpaqfranz.jpg"/>
+
+💻 Developer from Italy
+⚡ Passionate about **compression, systems programming and open technologies**
+
 </div>
 
-###
+---
+
+# 🌐 Links
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/franco-corbelli-80033269/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@zpaqfranz314" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-</div>
 
-###
+<a href="http://www.francocorbelli.it">
+<img src="https://img.shields.io/badge/Website-francocorbelli.it-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=fcorbelli.fcorbelli&"  />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=fcorbelli.fcorbelli"/>
 </div>
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+# 👋 About Me
 
-###
+I'm **Franco Corbelli**, an Italian developer interested in:
 
-<h3 align="left">👩‍💻  About Me</h3>
+* ⚙️ **Systems programming**
+* 🗜 **Data compression**
+* 🐧 **NIX and open source**
+* 🌐 **Web technologies**
+* 🧠 **Efficient algorithms**
+* 🐱 **Cats lover** (especially **Ragdoll** and **Norwegian Forest Cats**)
 
-###
+I enjoy building software that is **fast, lightweight and efficient**.
 
-<p align="left">I'm Franco Corbelli from Italy<br><br>- 🔭 I’m working as cat owner<br>- 📚 I'm currently learning how to learn<br>- ⚡ In my free time I cuddle cats</p>
+---
 
-###
+# 🚀 Featured Projects
 
-<h3 align="left">🛠 Language and tools</h3>
+### 🗜 zpaqfranz
 
-###
+Tools and experiments related to **advanced compression algorithms**.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="40" alt="gcc logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-</div>
+https://github.com/fcorbelli/zpaqfranz
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+### 🐱 catpaq
 
-###
+Offical GUI for zpaqfranz
+
+https://github.com/fcorbelli/catpaq
+
+---
+
+# 🛠 Languages and Tools
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=fcorbelli&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40"/>
+
 </div>
 
-###
+---
 
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
+# 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fcorbelli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fcorbelli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+<img src="https://github-profile-trophy.vercel.app/?username=fcorbelli&theme=dracula&no-frame=true&margin-w=10"/>
+
 </div>
 
-###
+---
+
+# 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/fcorbelli/count.svg?"  />
+
+<img src="https://streak-stats.demolab.com?user=fcorbelli&theme=dark&border_radius=5"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=fcorbelli&show_icons=true&theme=dracula"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcorbelli&layout=compact&theme=dracula"/>
+
 </div>
 
-###
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fcorbelli&theme=dracula"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/fcorbelli/fcorbelli/output/snake.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ If you like my work, feel free to **follow me on GitHub**
+
+</div>
