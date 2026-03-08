@@ -159,9 +159,9 @@ This makes zpaqfranz a practical tool not just for IT professionals, but also fo
 <br><br>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=fcorbelli&show_icons=true&theme=dracula"/>
+<img src="https://readme-stats-fc.vercel.app/api?username=fcorbelli&show_icons=true&theme=dracula"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcorbelli&layout=compact&theme=dracula"/>
+<img src="https://readme-stats-fc.vercel.app/api/top-langs/?username=fcorbelli&layout=compact&theme=dracula"/>
 
 </div>
 
